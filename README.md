@@ -12,13 +12,16 @@ I have been doing scientific programming for over 4 years in various languages, 
 ## Some cool visualisations I made in the past:
 
 ### [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit)
-<img src="https://github.com/bernwo/bernwo/blob/main/Qubit.gif" height="200">
+<img src="https://github.com/bernwo/bernwo/blob/main/Qubit.gif" height="180">
 
 ### [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model)
-<img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="200">
+<img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="180">
 
 ### [➣ Ising-Model](https://github.com/bernwo/AP3082-Ising-Model)
-<img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="200">
+<img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="180">
+
+### [➣ Toroidal-Harmonics](https://github.com/bernwo/toroidal-harmonics)
+<img src="https://github.com/bernwo/toroidal-harmonics/blob/main/toroidal_harmonics.gif" height="180">
 
 Fun fact: I self-learned Python, then C++ in university. The Python-to-C++ culture shock was real!😆
 
