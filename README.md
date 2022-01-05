@@ -12,7 +12,7 @@ I have been doing scientific programming for over 4 years in various languages, 
 ## Some cool visualisations I made in the past:
 
 ### [➣ Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit)
-<img src="https://github.com/bernwo/bernwo.github.io/blob/main/assets/media/animated/Qubit.gif" height="200">
+<img src="https://github.com/bernwo/bernwo/blob/main/Qubit.gif" height="200">
 
 ### [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model)
 <img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="200">
