@@ -7,7 +7,7 @@
 
 I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations. ✨
 
-I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`.
+I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have exposure to parallel programming, i.e., `MPI` using `C++` in Linux.
 
 ## Some cool visualisations I made in the past:
 
