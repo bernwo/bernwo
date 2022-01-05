@@ -11,7 +11,7 @@ I have been doing scientific programming for over 4 years in various languages, 
 
 ## Some cool visualisations I made in the past:
 
-### [➣ Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit)
+### [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit)
 <img src="https://github.com/bernwo/bernwo/blob/main/Qubit.gif" height="200">
 
 ### [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model)
