@@ -1,15 +1,15 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://www.linkedin.com/in/kah-jen-wo/">
   <img align="left" alt="Bernard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
 <br />
 
-I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations. ✨🔭
+**I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
 
-I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have exposure to parallel programming, i.e., `MPI` using `C++` in Linux.
+**I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have exposure to parallel programming, i.e., `MPI` using `C++` in Linux.**
 
-## Some cool visualisations I made in the past:
+### Some cool visualisations I made in the past:
 
 | [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit) | [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model) |
 | :---: | :---: |
