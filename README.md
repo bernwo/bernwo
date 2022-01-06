@@ -3,7 +3,7 @@
 <p align="left">
   <a href="https://github.com/bernwo/"><img alt="Bernard's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
   <a href="https://www.linkedin.com/in/kah-jen-wo/"><img alt="Bernard's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
-  <a href="mailto:k.j.wo@student.tudelft.nl"><img alt="Bernard's email" width="32px" src="https://raw.githubusercontent.com/bernwo/bernwo/main/assets/email.svg" /></a>
+  <a href="mailto:k.j.wo@student.tudelft.nl"><img alt="Bernard's email" width="32px" src="https://github.com/bernwo/bernwo/blob/main/assets/email.svg" /></a>
 </p>
 
 
