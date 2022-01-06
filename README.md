@@ -1,10 +1,9 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github.com/bernwo/">
-  <img align="left" alt="Bernard's Github" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-</a>
-<a href="https://www.linkedin.com/in/kah-jen-wo/">
-  <img align="left" alt="Bernard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+
+<p align="left">
+  <a href="https://github.com/bernwo/"><img alt="Bernard's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
+  <a href="https://www.linkedin.com/in/kah-jen-wo/"><img alt="Bernard's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+</p>
 
 
 **I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
