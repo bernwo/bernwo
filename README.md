@@ -3,6 +3,7 @@
 <p align="left">
   <a href="https://github.com/bernwo/"><img alt="Bernard's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
   <a href="https://www.linkedin.com/in/kah-jen-wo/"><img alt="Bernard's LinkedIN" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+  <a href="mailto:k.j.wo@student.tudelft.nl"><img alt="Bernard's email" width="32px" src="https://raw.githubusercontent.com/bernwo/bernwo/main/assets/email.svg" /></a>
 </p>
 
 
@@ -19,7 +20,7 @@
 
 | [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit) | [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model) |
 | :---: | :---: |
-| <img src="https://github.com/bernwo/bernwo/blob/main/Qubit.gif" height="180">| <img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="180"> |
+| <img src="https://github.com/bernwo/bernwo/blob/main/assets/Qubit.gif" height="180">| <img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="180"> |
 | [**➣ Toroidal-Harmonics**](https://github.com/bernwo/toroidal-harmonics)   | [**➣ Ising-Model**](https://github.com/bernwo/AP3082-Ising-Model) |
 | <img src="https://github.com/bernwo/toroidal-harmonics/blob/main/toroidal_harmonics.gif" height="180"> | <img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="180"> |
 
