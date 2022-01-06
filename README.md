@@ -26,8 +26,9 @@
 
 Fun fact: I self-learned Python, then C++ in university. The Python-to-C++ culture shock was real!😆
 
-![](https://komarev.com/ghpvc/?username=bernwo&color=ff69b4)
-
+<p align="left">
+  <a href="https://github.com/bernwo/"><img alt="Bernard's Github profile view count" width="115px" src="https://komarev.com/ghpvc/?username=bernwo&color=ff69b4" /></a>
+</p>
 <!--
 **bernwo/bernwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
