@@ -7,7 +7,7 @@
 
 **I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
 
-**I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have experience in high performance computing using [`Numba`](https://numba.pydata.org/), and exposure to parallel computing using [`MPI`](https://www.open-mpi.org/) using `C++` in Linux.**
+**I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have experience in high performance computing using [`Numba`](https://numba.pydata.org/), and exposure to parallel computing using [`MPI`](https://www.open-mpi.org/) using `C++` in Linux and `Matlab`'s [`parfor`](https://www.mathworks.com/help/parallel-computing/parfor.html).**
 
 ### 🛠 Programming language and tools
 
