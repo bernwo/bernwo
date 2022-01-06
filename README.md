@@ -6,7 +6,6 @@
   <img align="left" alt="Bernard's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<br />
 
 **I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
 
