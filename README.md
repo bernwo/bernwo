@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Welcome/Selamat datang/Welkom! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
   <a href="https://github.com/bernwo/"><img alt="Bernard's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
