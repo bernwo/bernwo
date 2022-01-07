@@ -18,11 +18,13 @@
 
 ### ⚡ Some cool visualisations I made in the past
 
-| [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit) | [➣ XY-Model](https://github.com/bernwo/AP3082-XY-Model) |
+| [➣ Qubit - Bloch sphere](https://bernwo.github.io/blog/what-is-a-qubit) | [➣ XY model](https://github.com/bernwo/AP3082-XY-Model) |
 | :---: | :---: |
 | <img src="https://github.com/bernwo/bernwo/blob/main/assets/Qubit.gif" height="180">| <img src="https://github.com/bernwo/AP3082-XY-Model/blob/main/simulation_images/Metropolis_phase_energy_L64_tau10000000_nrelax1_Tinit0_Tfinal0.gif" height="180"> |
-| [**➣ Toroidal-Harmonics**](https://github.com/bernwo/toroidal-harmonics)   | [**➣ Ising-Model**](https://github.com/bernwo/AP3082-Ising-Model) |
-| <img src="https://github.com/bernwo/toroidal-harmonics/blob/main/toroidal_harmonics.gif" height="180"> | <img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="180"> |
+| [**➣ Quantum tree cluster states**](https://github.com/bernwo/tree-cluster-states-manim) | [**➣ Ising model**](https://github.com/bernwo/AP3082-Ising-Model) |
+| <img src="https://github.com/bernwo/tree-cluster-states-manim/blob/main/assets/TreeClusterStates.gif" height="180"> | <img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="180"> |
+| [**➣ Toroidal harmonics**](https://github.com/bernwo/toroidal-harmonics) | |
+| <img src="https://github.com/bernwo/toroidal-harmonics/blob/main/toroidal_harmonics.gif" height="180"> | |
 
 Fun fact: I self-learned Python, then C++ in university. The Python-to-C++ culture shock was real!😆
 
