@@ -1,4 +1,4 @@
-## Welcome/Selamat datang/Welkom! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+## Greetings! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <p align="left">
   <a href="https://github.com/bernwo/"><img alt="Bernard's Github" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" /></a>
@@ -7,9 +7,9 @@
 </p>
 
 
-**I'm [Bernard](https://bernwo.github.io/), a Master student in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
+**I'm [Bernard](https://bernwo.github.io/), a MSc graduate in quantum computing who is also passionate about scientific programming and results visualisations.** ✨🔭
 
-**I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have experience in high performance computing using [`Numba`](https://numba.pydata.org/), and exposure to parallel computing using [`MPI`](https://www.open-mpi.org/) using `C++` in Linux and `Matlab`'s [`parfor`](https://www.mathworks.com/help/parallel-computing/parfor.html).**
+**I have been doing scientific programming for over 4 years in various languages, i.e., `Python`, `Julia`, `Matlab`, `Mathematica`, `C++`. I also have experience in high performance computing using [`openmp`](https://www.openmp.org/) in `C++` (_in both Windows and Linux_), [`Numba`](https://numba.pydata.org/) in `Python` and `Matlab`'s [`parfor`](https://www.mathworks.com/help/parallel-computing/parfor.html).**
 
 ### 🛠 Programming language and tools
 
@@ -25,8 +25,6 @@
 | <img src="https://github.com/bernwo/tree-cluster-states-manim/blob/main/assets/TreeClusterStates.gif" height="180"> | <img src="https://github.com/bernwo/AP3082-Ising-Model/blob/main/simulation_images/Metropolis_J2_TTc0.01_h0.gif" height="180"> |
 | [**➣ Toroidal harmonics**](https://github.com/bernwo/toroidal-harmonics) | |
 | <img src="https://github.com/bernwo/toroidal-harmonics/blob/main/toroidal_harmonics.gif" height="180"> | |
-
-Fun fact: I self-learned Python, then C++ in university. The Python-to-C++ culture shock was real!😆
 
 <p align="left">
   <a href="https://github.com/bernwo/"><img alt="Bernard's Github profile view count" width="115px" src="https://komarev.com/ghpvc/?username=bernwo&color=ff69b4" /></a>
